@@ -1,0 +1,26 @@
+1
+{container ID=FR5545, produce=Fruit, quantity=7100, use by date=11/2019}
+2
+{container ID=VE5425, produce=Vegetables, quantity=7500, use by date=11/2019}
+3
+{container ID=ME5415, produce=Meat, quantity=6300, use by date=2/2020}
+4
+{container ID=ME6465, produce=Meat, quantity=4300, use by date=5/2020}
+5
+{container ID=DA7355, produce=Dairy, quantity=3200, use by date=11/2019}
+6
+{container ID=DA7395, produce=Dairy, quantity=2800, use by date=4/2020}
+7
+{container ID=DA7385, produce=Dairy, quantity=9600, use by date=1/2020}
+8
+{container ID=DR8245, produce=Drinks, quantity=5000, use by date=1/2020}
+9
+{container ID=FI8245, produce=Fish, quantity=4000, use by date=11/2019}
+10
+{container ID=ME8145, produce=Meat, quantity=8000, use by date=12/2019}
+11
+{container ID=FR9145, produce=Fruit, quantity=5500, use by date=12/2019}
+12
+{container ID=DA9022, produce=Dairy, quantity=4000, use by date=11/2019}
+13
+{container ID=VE9045, produce=Vegetables, quantity=2000, use by date=11/2018}
