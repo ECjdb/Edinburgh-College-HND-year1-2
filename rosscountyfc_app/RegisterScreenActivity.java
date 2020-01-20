@@ -69,7 +69,7 @@ public class RegisterScreenActivity extends AppCompatActivity implements View.On
         String password = editTextPassword.getText().toString().trim();
 
         Retrofit retrofit  = new Retrofit.Builder()
-                .baseUrl("http://192.168.1.9/rcfcapp/v1/")
+                .baseUrl("http://''/rcfcapp/v1/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
