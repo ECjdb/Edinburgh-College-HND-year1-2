@@ -58,7 +58,7 @@ public class SubscriberActivity extends AppCompatActivity implements View.OnClic
     private void updateSubscription()
     {
         Retrofit retrofit  = new Retrofit.Builder()
-                .baseUrl("http://192.168.1.9/rcfcapp/v1/")
+                .baseUrl("http://''/rcfcapp/v1/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
