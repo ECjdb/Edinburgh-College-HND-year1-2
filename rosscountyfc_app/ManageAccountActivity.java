@@ -77,7 +77,7 @@ public class ManageAccountActivity extends AppCompatActivity implements View.OnC
         String password = accPassword.getText().toString().trim();
 
         Retrofit retrofit  = new Retrofit.Builder()
-                .baseUrl("http://192.168.1.9/rcfcapp/v1/")
+                .baseUrl("")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
