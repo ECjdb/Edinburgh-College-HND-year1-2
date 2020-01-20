@@ -62,7 +62,7 @@ public class LeagueScreenActivity extends AppCompatActivity
         //factory which is responsible for parsing the JSON response.
 
         Retrofit retrofit  = new Retrofit.Builder()
-                .baseUrl("http://192.168.1.9/rcfcapp/v1/")
+                .baseUrl("")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 
